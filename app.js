@@ -23,7 +23,6 @@ numberInput.addEventListener('input', getFactFetch);
 //             //  console.log(this.responseText)
 //         }
 //     }
-
 //     xhr.send();
 //
 
