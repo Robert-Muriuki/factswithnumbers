@@ -5,7 +5,7 @@ let numberInput = document.querySelector('#numberInput')
 
 numberInput.addEventListener('input', getFactFetch);
 
-        //XMLHTTPRequest
+        //XMLHTTPRequest method
 
 // function getFactAjax() {
 //     let number = numberInput.value
@@ -27,7 +27,7 @@ numberInput.addEventListener('input', getFactFetch);
 //
 
 
-            //Fetch
+            //Fetch method
 
 function getFactFetch () {
     let number = numberInput.value
