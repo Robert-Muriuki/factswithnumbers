@@ -26,7 +26,6 @@ numberInput.addEventListener('input', getFactFetch);
 //     xhr.send();
 //
 
-
             //Fetch method
 
 function getFactFetch () {
